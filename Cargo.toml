@@ -50,7 +50,7 @@ microstack = { version = "0.0.7", features = ["serde"] }
 nohash-hasher = "0.2.0"
 openssl = { version = "0.10.68", features = ["vendored"] }
 regex = "1.9.3"
-rstest = "0.23.0"
+rstest = "0.24.0"
 rustc-hash = "2.0.0"
 serde = { version = "1.0.162", features = ["derive"] }
 simple_logger = "5.0.0"
