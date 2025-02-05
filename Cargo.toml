@@ -1,6 +1,6 @@
 # The MIT License (MIT)
 #
-# Copyright (c) 2022-2025 Objectionary.com
+# Copyright (c) 2022-2024 Objectionary.com
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -48,7 +48,7 @@ log = "0.4.20"
 micromap = { version = "0.0.15", features = ["serde"] }
 microstack = { version = "0.0.7", features = ["serde"] }
 nohash-hasher = "0.2.0"
-openssl = { version = "0.10.68", features = ["vendored"] }
+openssl = { version = "0.10.59", features = ["vendored"] }
 regex = "1.9.3"
 rstest = "0.23.0"
 rustc-hash = "2.0.0"
